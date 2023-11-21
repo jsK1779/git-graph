@@ -1,1 +1,1 @@
-"Hi, this is git-graph program"
+"Hi, this is my git-graph program"
